@@ -132,4 +132,7 @@ text-align: center;
     .main-container{
         display: block;
     }
+.flex-item{
+ margin-bottom:30px;
+}
 }
