@@ -115,24 +115,19 @@ text-align: center;
     top: 0;
     align-items: center;
 }
-#mybtn{
-    background-color: #9B4819;
-    border: 0;
-
-}
 @media(max-width:600px) {
     .skills-container{
         display: block;
     }
     .skills-subtitle{
         width: 25%;
-        margin-left: 40%;
+        margin-left: 37%;
         margin-right: 20%;
     }
     .main-container{
         display: block;
     }
     .flex-item{
-        margin-bottom:30px;
+        margin-bottom: 50px;
     }
 }
