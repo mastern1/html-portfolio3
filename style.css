@@ -106,6 +106,9 @@ text-align: center;
     text-decoration: none;
     color:#F4F1E8;
 }
+.footer-link:hover {
+ color: #f4f1e8a5;
+}
 .navbar-a{
     display: flex;
     background-color: #9B4819;
